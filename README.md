@@ -11,3 +11,5 @@
 **StepikQAPfinal** - Финальная работа курса **Автоматизация тестирования с помощью Selenium и Python** на Stepik. (Selenium, Pytest, PageObject)
 
 **RLTestGame** - Консольная игра, написанная в процессе изучения Python.
+
+**TestWork_Python** - Тестовая работа, работа с API и бд.
